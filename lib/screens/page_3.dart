@@ -8,10 +8,10 @@ class WelcomePage1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Template(
       image: AssetImage('images/Homescreen3.png'),
-      title: 'Welcome!',
-      text1: 'Explore the all new way to build',
-      text2: 'your fitness & find',
-      text3: 'Perfect Fit for you',
+      title: "Let's Go...",
+      text1: "Get the fitness updates",
+      text2: "everyday & improve",
+      text3: "performance",
       iconImage: AssetImage('images/Breadcrumb1.png'),
       navigateTo: '',
       buttonAction: '',
