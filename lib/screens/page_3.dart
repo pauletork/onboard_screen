@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:befit_app/template/template.dart';
 
-class WelcomePage1 extends StatelessWidget {
-  const WelcomePage1({Key? key}) : super(key: key);
+class ScreenPage3 extends StatelessWidget {
+  const ScreenPage3({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
