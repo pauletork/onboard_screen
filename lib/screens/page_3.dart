@@ -12,7 +12,7 @@ class WelcomePage1 extends StatelessWidget {
       text1: "Get the fitness updates",
       text2: "everyday & improve",
       text3: "performance",
-      iconImage: AssetImage('images/Breadcrumb1.png'),
+      iconImage: AssetImage('images/Breadcrumb3.png'),
       navigateTo: '',
       buttonAction: '',
     );
